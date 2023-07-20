@@ -22,3 +22,18 @@
 | Nombre | **Tarea 3** *Fuente, Animacion, Imagen* |
 | Descripción  |  Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación, realizada en Android Studio.|
 |  Fecha de Carga | 24/05/23  |
+
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
